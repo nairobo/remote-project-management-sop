@@ -1,2 +1,3 @@
 # remote-project-management-sop
-Managing projects remotely from each other and the output itself requires a whole new operating system.
+At any given point in time at least some of us are working remotely. This is the norm not the exception. We have an opportunity to craft an entirely new operating system for project management. 
+
